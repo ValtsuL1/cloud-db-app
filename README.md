@@ -1,1 +1,1 @@
-#Simple todo app for cloud database exercise
+# Simple todo app for cloud database exercise
